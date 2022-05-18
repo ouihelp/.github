@@ -2,6 +2,13 @@
 <em>STP link les tâches linear concernées (fixes OH-XXXX)</em>
 <em>STP donne quelques pointeurs pour aider le reviewer</em>
 
+### **Lien de Test Front**
+- [ ] Pas de lien de test
+- [ ] Back non merger, besoin de l'api local -> spécifier le chemin d'accès
+- [ ] Directement utilisable -> spécifier le lien direct
+
+<em>Lien/chemin: STP Lien direct de la page de test ou chemin d'accès</em>
+
 ### **Type de changement**
 <em>STP coche les options pertinentes</em>
 
